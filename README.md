@@ -75,7 +75,10 @@ To run this project, the following libraries are required:
 
 ## How to run
 
-You can install these dependencies using `pip`:
+You can install these dependencies using import
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
