@@ -9,7 +9,6 @@
 5. [Conclusion](#conclusion)
 6. [Requirements](#requirements)
 7. [How to Run](#how-to-run)
-8. [License](#license)
 
 ## Overview
 
@@ -73,6 +72,8 @@ To run this project, the following libraries are required:
 - `numpy`
 - `matplotlib`
 - `seaborn`
+
+## How to run
 
 You can install these dependencies using `pip`:
 
