@@ -1,4 +1,4 @@
-# Swiggy Insights: Restaurant Data Analysis
+# Swiggy Insights: Restaurant Data Analysis Using EDA
 ![image](https://github.com/user-attachments/assets/d4f9ea19-8dde-49f6-ab24-48a76595e8dd)
 
 ## Table of Contents
